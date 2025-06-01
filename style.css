@@ -1,0 +1,112 @@
+body {
+    font-family:Comic Sans MS;
+    background-color: rgba(194, 194, 194, 1);
+}
+
+header {
+    justify-content: space-between;
+    padding:15px;
+    margin-bottom: 20px;
+    display:flex;
+    align-items: center;
+}
+
+.button {
+    background-color: #960000;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+}
+
+nav {
+    border-top: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    display:flex;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 36px;
+    margin-top:45px;
+    margin-bottom:40px;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display:flex;
+    
+}
+
+article {
+    background-color: rgb(255, 255, 255);
+    padding: 15px 45px 30px 45px;
+    width: 400px;
+    margin:20px ;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: rgb(133, 0, 0);
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display:block;
+}
+
+footer {
+    background-color: rgba(194, 194, 194, 1));
+    padding:40px 0px 45px 45px ;
+
+    color:black;
+}
+
+footer a {
+    margin-right:50px;
+}
+
+footer p {
+    font-size: 24px;
+}
+header h1 {
+    margin-left:50px;
+    text-size:36px;
+}
+.pomi {
+    color:rgba(73, 31, 31, 1);
+     margin-left:50px;
+    text-size:36px;
+}
+  footer {
+    background-color: #920000;
+    padding: 10px;
+    padding-left:40px;
+}
+
+footer p {
+    background-color: rgba(194, 194, 194, 1);
+    padding: 5px;
+ }
+ .pomidorr {
+     font-size: 24px;
+    color: rgb(70, 0, 0);
+    text-decoration: none;
+}
+ }
